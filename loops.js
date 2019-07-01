@@ -1,6 +1,6 @@
 /*  use the FOR loop, make a special use case for the number 1 by using IF / ELSE control flow
 use PUSH method to add each new string
-
+use TEMPLATE LITERAL  w/ index to insert the correct number into the string.
 */
 
 function forLoop(array) {
